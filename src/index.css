@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #ff0000;
+  --secondary: #00ff00;
+
+  /* --rounded: 1rem; */
+}
